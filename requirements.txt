@@ -1,0 +1,6 @@
+python-binance==1.0.17
+python-telegram-bot
+configparser
+pandas 
+numpy  
+# Later: scikit-learn, tensorflow/pytorch, ta-lib, etc.
