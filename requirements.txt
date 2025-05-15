@@ -3,4 +3,5 @@ python-telegram-bot
 configparser
 pandas 
 numpy  
+ta
 # Later: scikit-learn, tensorflow/pytorch, ta-lib, etc.
